@@ -1,3 +1,5 @@
+# TO SEE USE REDUCER FUNCTIONALITY GO TO context.js and reducer.js file MOST OF THE WORK IS DONE THERE
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
